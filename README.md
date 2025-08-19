@@ -1,6 +1,7 @@
 # Prazer! Meu Nome é Luis Felipe
 Sou Aluno 2º do IFCE Campus Aracati\
-Adoro Jogos, Amo Pokemon, Jogos Indies e Roguelikes
+Adoro Jogos, Amo Pokemon, Jogos Indies e Roguelikes\
+Meu Pokemon Favorito é o [Mimikyu](https://pokemondb.net/pokedex/mimikyu) Número 778º da Nacional Dex
 # 
 <a href="https://github-readme-stats.vercel.app/api?username=luisfelpe&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfelpe&show_icons=true&theme=dark" />
